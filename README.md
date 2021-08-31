@@ -1,2 +1,2 @@
-# LDOVoron2
-Contains supplementary information for the LDO Voron 2 Kit
+# LDO Voron 2 Kit
+This repository contains supplementary information for the LDO Voron 2 Kit
