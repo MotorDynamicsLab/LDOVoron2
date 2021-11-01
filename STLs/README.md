@@ -12,3 +12,6 @@ This optional part offsets the top panel thickness and helps mount the included 
 
 ## Z Rail stop
 An optional part that stops the linear rail carts from falling off the Z rails.
+
+## Exhaust Cover
+If you decide to build the Nevermore internal circulation filter, print this exhaust cover to seal the back panel.
