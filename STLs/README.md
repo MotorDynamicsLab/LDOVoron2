@@ -17,4 +17,4 @@ An optional part that stops the linear rail carts from falling off the Z rails.
 If you decide to build the Nevermore internal circulation filter, print this exhaust cover to seal the back panel.
 
 ## LED PCB Spacer
-This part helps mount the LED splitter PCB to the 2020 rail.
+This part helps mount the LED splitter PCB to the 2020 extrusion.
