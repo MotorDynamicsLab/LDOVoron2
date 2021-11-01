@@ -7,5 +7,8 @@ This part replaces the `plug_panel` part from the official [Voron repo](https://
 ## Nozzle Probe LDO
 This part replaces the `nozzle_probe` part from the official [Voron repo](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Z_Endstop). This part allows for an LDO Z Endstop PCB to be used.
 
+## Handlebar Spacer
+This optional part offsets the top panel thickness and helps mount the included aluminium handle bar.
+
 ## Z Rail stop
 An optional part that stops the linear rail carts from falling off the Z rails.
