@@ -18,3 +18,10 @@ If you decide to build the Nevermore internal circulation filter, print this exh
 
 ## LED PCB Spacer
 This part helps mount the LED splitter PCB to the 2020 extrusion.
+
+## Toolhead Breakout PCB Bracket
+This part helps mount the toolhead breakout PCB. Print an additional DIN rail clip to attach to this part.
+
+## LDO Bestagon Insert
+An (optional) LDO Logo that inserts into the hexagonal holes of the skirts.
+
