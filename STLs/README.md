@@ -25,3 +25,5 @@ This part helps mount the toolhead breakout PCB. Print an additional DIN rail cl
 ## LDO Bestagon Insert
 An (optional) LDO Logo that inserts into the hexagonal holes of the skirts.
 
+## Beefy Raspberry Pi Mount
+This mount uses two DIN clips for a more secure grip on DIN rails. 
