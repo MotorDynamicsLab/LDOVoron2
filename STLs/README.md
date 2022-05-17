@@ -27,3 +27,6 @@ An (optional) LDO Logo that inserts into the hexagonal holes of the skirts.
 
 ## Beefy Raspberry Pi Mount
 This mount uses two DIN clips for a more secure grip on DIN rails. 
+
+## Z Belt Cover A LED
+This is a remix of the original Z Belt Cover but leaves a small opening for the LED cable to pass through.
