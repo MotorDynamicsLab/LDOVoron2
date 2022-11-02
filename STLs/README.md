@@ -30,3 +30,6 @@ This mount uses two DIN clips for a more secure grip on DIN rails.
 
 ## Z Belt Cover A LED
 This is a remix of the original Z Belt Cover but leaves a small opening for the LED cable to pass through.
+
+## CW2 Offset Chain Anchor
+This is the same part as the official chain anchor with an additional M3 insert hole that offsets the end of the X cable chain slightly. Moving the left two holes may result in better clearance when using the cable chain provided in the LDO V2 or Trident kits.
