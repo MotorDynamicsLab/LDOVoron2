@@ -1,8 +1,3 @@
-# LDO Steathburner + CW2 + LDO Toolhead PCB
+# LDO Steathburner + Clockwork 2 + LDO Toolhead PCB
 
-
-
-![](./images/page1.png)
-
-![](./images/page2.png)
-
+For assembly directions please follow our guide [LDO Motion](https://www.ldomotion.com/p/guide/18295873486193741). 
