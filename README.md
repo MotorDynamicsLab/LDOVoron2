@@ -10,7 +10,9 @@ of the GNU Public License, verison 3.
 
 GPLv3 License Attributions:
 
+https://github.com/VoronDesign/Voron-Trident
 https://github.com/VoronDesign/Voron-2
+https://github.com/VoronDesign/Voron-Stealthburner
 
 For more information and support:
 
