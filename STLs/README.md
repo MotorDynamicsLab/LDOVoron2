@@ -1,7 +1,7 @@
 # STLs for LDO Kit
 This directory contains STL files specific to the LDO kit.
 
-## Plug Panel 1.2mm
+## Plug Panel 1.2mm (Deprecated as of V2.4R2)
 This part replaces the `plug_panel` part from the official [Voron repo](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/VORON2.4/Electronics_Compartment/Plug_Panel). This part adapts specifically to 1.2mm AC inlets for a better fit.
 
 ## Nozzle Probe LDO
