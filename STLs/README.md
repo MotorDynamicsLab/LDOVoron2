@@ -33,3 +33,6 @@ This is a remix of the original Z Belt Cover but leaves a small opening for the 
 
 ## CW2 Offset Chain Anchor
 This is the same part as the official chain anchor with an additional M3 insert hole that offsets the end of the X cable chain slightly. Moving the left two holes may result in better clearance when using the cable chain provided in the LDO V2 or Trident kits.
+
+## CW2 PCB Cover for Captive Screw
+This part is a slight modification of hartk's [Clockwork 2 PCB cover with thermistor](https://github.com/VoronDesign/Voron-Hardware/blob/master/Stealthburner_Toolhead_PCB/STLs/cable_cover_pcb_with_thermistor.stl). It is designed to be used in conjunction with a captive M3x8 screw, so that the screw does not fall out when the PCB cover is opened.
