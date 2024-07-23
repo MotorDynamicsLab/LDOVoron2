@@ -3,7 +3,7 @@ This is an easy and fast to print mount for COB (chip on the board) LED strips, 
 - The STLs come in three sizes (50/100/150mm) that allow you to combine into different lengths to match your LED strip. 
 - The provided Fusion 360 source file is parametric to allow for any arbitrary length for the mount. 
 
-<img title="" src="." alt="COB lighting" width="700" data-align="inline">
+<img title="" src="./Images/COB lit.jpg" alt="COB lighting" width="700" data-align="inline">
 
 ## Printing for LDO kits
 The following are recommend print counts for different LDO Voron kits. Note that you can always substitude 50mm variant and 100mm variant with a single 150mm variant.
