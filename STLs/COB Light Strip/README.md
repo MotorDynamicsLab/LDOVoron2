@@ -22,3 +22,5 @@ Print 8x cob_light_strip_mount_100mm
 
 ## Assembly
 Each mount is a two piece assembly (for easy printing). Use 2x M3 Heatsets and 2x M3x6 FHCS screws two assemble the two pieces together. Use 2x M3x8 SHCS to install the part to the side of a 2020 extrusion.
+
+<img title="" src="./Images/cob_mount_install.png" alt="COB lighting" width="700" data-align="inline">
