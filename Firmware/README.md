@@ -15,4 +15,8 @@ This contains mainboard configs for LDO V2.4 kits Rev.C. Changes include:
 
 ## leviathan-printer-rev-d.cfg
 
-This contains mainboard configs for LDO V2.4 kits Rev.D
+This contains mainboard configs for LDO V2.4 kits Rev.D with the Nitehawk-SB toolboard
+
+## leviathan-printer-rev-d-sbv2.cfg
+
+This contains mainboard configs for LDO V2.4 kits Rev.D with the Nitehawk-SB V2 toolboard
